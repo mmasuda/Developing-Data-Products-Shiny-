@@ -1,5 +1,5 @@
 #### Overview  
-##### This Shiny application is designed to show how compulsory wearing of seat belts decresed fatal accidents in Great Britain. You can see time series plot(1969-1984) and amont of changes after law introduction(on 31 Jan 1983). This application consists of 4 pages selected by tab. 
+##### This Shiny application is designed to show how compulsory wearing of seat belts decreased fatal accidents in Great Britain. You can see time series plot(1969-1984) and amont of changes after law introduction(on 31 Jan 1983). This application consists of 4 pages selected by tab. 
 
 #### Plot tab  
 ##### Plot page consists of two inputs, one plot and one statistic data.
