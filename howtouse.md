@@ -15,4 +15,8 @@
 ##### Dataset page shows overview with reference source and relation between radio button name and Seatbelts dataset. Seatbelts dataset is also shown in this page.  
 
 #### How to use tab  
-##### Explain how to use this Shiny application.  
+##### Explain how to use this Shiny application. 
+
+#### Reference  
+##### [Source code on github](http://github.com/mmasuda/Developing-Data-Products-Shiny-)  
+
